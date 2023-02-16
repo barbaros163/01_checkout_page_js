@@ -22,7 +22,7 @@ HTML, CSS, Javascript
 
 
 ## Demo
-https://barbaros163.github.io/21.09.2022_checkout_solution/index.html
+https://barbaros163.github.io/01_checkout_page_js/
 ## Feedback
 
 If you have any feedback, please reach out to me at barbaros1675@gmail.com
